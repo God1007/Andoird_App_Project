@@ -24,6 +24,14 @@
         <activity
             android:name=".ReportActivity"
             android:exported="false" />
+
+        <activity
+            android:name=".BMIPictureChoiceActivity"
+            android:exported="false" />
+
+        <!-- 注册新的 ChildActivity 和 AdultActivity -->
+        <activity android:name=".ChildActivity" android:exported="false" />
+        <activity android:name=".AdultActivity" android:exported="false" />
     </application>
 
 </manifest>
