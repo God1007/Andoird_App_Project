@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMICalculation</string>
+    <string name="input_the_height_here">Input the height here.</string>
+    <string name="input_the_weight_here">Input the weight here.</string>
+    <string name="weight_kg">weight(kg)</string>
+    <string name="bmi_calculation">BMI Calculation</string>
+    <string name="see_ur_bmi">See ur BMI</string>
+    <string name="height_cm">height(cm)</string>
+    <string name="bmi_result">Your bmi result is </string>
+    <string name="advice_average">You look great!</string>
+
+</resources>
